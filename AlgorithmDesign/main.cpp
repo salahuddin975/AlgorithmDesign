@@ -3,12 +3,13 @@
 
 //----------------------- Dynamic Programming --------------
 void fibonacci_main();
+int lcs_main();
 void knapsack_main();
 
 
 int main()
 {
-	fibonacci_main();
+	lcs_main();
 	return 0;
 }
 
