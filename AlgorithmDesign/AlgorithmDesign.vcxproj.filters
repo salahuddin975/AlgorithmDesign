@@ -24,13 +24,13 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DynamicProgramming\Knapsack.cpp">
+    <ClCompile Include="DynamicProgramming\rod_cutting.cpp">
       <Filter>Source Files\DynamicProgramming</Filter>
     </ClCompile>
-    <ClCompile Include="DynamicProgramming\RodCutting.cpp">
+    <ClCompile Include="DynamicProgramming\longest-common-subsequence.cpp">
       <Filter>Source Files\DynamicProgramming</Filter>
     </ClCompile>
-    <ClCompile Include="Fibonacci.cpp">
+    <ClCompile Include="DynamicProgramming\fibonacci.cpp">
       <Filter>Source Files\DynamicProgramming</Filter>
     </ClCompile>
   </ItemGroup>

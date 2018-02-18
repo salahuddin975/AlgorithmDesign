@@ -79,9 +79,9 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DynamicProgramming\Knapsack.cpp" />
-    <ClCompile Include="DynamicProgramming\RodCutting.cpp" />
-    <ClCompile Include="Fibonacci.cpp" />
+    <ClCompile Include="DynamicProgramming\fibonacci.cpp" />
+    <ClCompile Include="DynamicProgramming\longest-common-subsequence.cpp" />
+    <ClCompile Include="DynamicProgramming\rod_cutting.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
