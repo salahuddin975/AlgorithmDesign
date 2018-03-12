@@ -80,6 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="DynamicProgramming\fibonacci.cpp" />
+    <ClCompile Include="DynamicProgramming\knapsack.cpp" />
     <ClCompile Include="DynamicProgramming\longest-common-subsequence.cpp" />
     <ClCompile Include="DynamicProgramming\rod_cutting.cpp" />
     <ClCompile Include="main.cpp" />

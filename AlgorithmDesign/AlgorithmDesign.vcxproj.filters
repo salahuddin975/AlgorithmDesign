@@ -33,5 +33,8 @@
     <ClCompile Include="DynamicProgramming\fibonacci.cpp">
       <Filter>Source Files\DynamicProgramming</Filter>
     </ClCompile>
+    <ClCompile Include="DynamicProgramming\knapsack.cpp">
+      <Filter>Source Files\DynamicProgramming</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
