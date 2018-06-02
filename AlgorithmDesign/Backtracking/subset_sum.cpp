@@ -6,7 +6,7 @@ This solutions finds all possible solutions by exhaustive search.
 */
 
 #include <iostream>
-#include <stdlib.h>
+
 
 #define NUM_OF_ITEMS 7
 #define TARGET_SUM 35
